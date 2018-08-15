@@ -1,0 +1,2 @@
+export const FETCH_STUFF = 'FETCH_STUFF';
+export const FETCH_STUFF_ERROR = 'FETCH_STUFF_ERROR';
